@@ -1,4 +1,5 @@
 let totalSeconds;
+let interval;
 
 function countDown() {
   const minutes = Math.floor(totalSeconds / 60);
