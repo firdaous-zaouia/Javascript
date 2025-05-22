@@ -1,0 +1,24 @@
+{
+  "workbench.colorTheme": "One Dark Pro",
+  "php.validate.executablePath": "",
+  "color-highlight.markerType": "outline",
+  "git.autofetch": true,
+  "git.openRepositoryInParentFolders": "never",
+  "editor.wordWrap": "on",
+  "files.autoSave": "onWindowChange",
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "liveSassCompile.settings.autoprefix": ["> 1%", "last 2 versions"],
+  "workbench.iconTheme": "material-icon-theme",
+  "[html]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "settingsSync.ignoredSettings": [
+    
+  ]
+}
